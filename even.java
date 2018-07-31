@@ -10,7 +10,7 @@ class Ideone
 		Scanner sc=new Scanner(System.in);
 		limit=sc.nextInt();
 		range=sc.nextInt();
-		for(int i=limit+1; i<range-1;i++)
+		for(int i=limit+1; i<range;i++)
 		{
 		           if( i%2== 0)	
 		
